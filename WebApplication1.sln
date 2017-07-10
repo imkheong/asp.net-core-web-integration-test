@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{1B8FB217-12A4-43F6-97B1-6D786E486ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{03907E10-4973-4FA3-B261-C11FA0ABFA48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7CB6C818-7FE2-40A3-BEA4-A51339F308B7}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8FB217-12A4-43F6-97B1-6D786E486ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8FB217-12A4-43F6-97B1-6D786E486ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8FB217-12A4-43F6-97B1-6D786E486ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8FB217-12A4-43F6-97B1-6D786E486ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03907E10-4973-4FA3-B261-C11FA0ABFA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03907E10-4973-4FA3-B261-C11FA0ABFA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03907E10-4973-4FA3-B261-C11FA0ABFA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03907E10-4973-4FA3-B261-C11FA0ABFA48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
