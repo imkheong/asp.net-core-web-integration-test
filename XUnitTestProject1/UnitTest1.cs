@@ -9,7 +9,7 @@ namespace XUnitTestProject1
         private readonly TestServerFixture _fixture;
         public UnitTest1()
         {
-            ()_fixture = new TestServerFixture();
+            _fixture = new TestServerFixture();
         }
 
         [Fact]
